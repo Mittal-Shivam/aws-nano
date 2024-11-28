@@ -1,0 +1,10 @@
+[
+    {
+        "ParameterKey": "ExerciseName",
+        "ParameterValue": "asg-exercise"
+    },
+    {
+        "ParameterKey": "Capacity",
+        "ParameterValue": "1"
+    }
+ ]
